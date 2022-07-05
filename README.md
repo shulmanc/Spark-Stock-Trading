@@ -1,1 +1,1 @@
-# Spark-Stock-Trading
+The purpose  of this project was to get an introduction to using Spark, which is one of the fastest tools used to analyze and process big data. To do this the goal was to find a set of stocks whose average performance over the entire 10-year period between 2007 and 2017 exceeds the S&P 500. Since, of course, past performance is a perfect guarantee of future results, that same subset should continue to outperform the market indefinitely into the future making these stocks the best choice to invest in!
